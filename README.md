@@ -1,4 +1,5 @@
 # 🚀 Discovering Exoplanets from Noisy Light Curves Using Fourier Series [![📈POSTER](https://img.shields.io/badge/-📈%20POSTER-blue)](https://github.com/ML-Ewha-24-2/Discovering_Exoplanets/blob/main/poster.png)
+<img width="684" alt="image" src="https://github.com/user-attachments/assets/92116972-1efa-4081-a6e9-56fb41c300bf" />
 
 ## 📌 Project Overview  
 🔭 This project aims to detect exoplanets by analyzing stellar brightness variations.  
@@ -153,7 +154,7 @@ To minimize the impact of outliers, we applied **Robust Scaling**:
 
 ## 👭 Members  
 
-<table align="center">
+<table>
   <tr align="center">
     <td><img src="https://github.com/flowersayo.png" width="120"></td>
     <td><img src="https://github.com/Ganghee-Lee-0522.png" width="120"></td>
